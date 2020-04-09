@@ -1,6 +1,6 @@
 # ordering_app
 
-A new Flutter project.
+Taqueria ordering application made in flutter with a menu, order page, and payment page.
 
 ## Screenshots
 ![Menu](https://user-images.githubusercontent.com/63069460/78935256-66f2ac00-7a7a-11ea-89c4-90d044fcfab5.png)
